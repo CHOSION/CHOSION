@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Swift.
 - 💞️ I’m looking to collaborate on ...
 - 🏆 SQLD
-- 📫 How to reach me ...
+- 📫 chosion0107@gmail.com
 
 <!---
 CHOSION/CHOSION is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
