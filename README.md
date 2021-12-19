@@ -2,6 +2,7 @@
 - 👀 I’m interested in Python, Swift, SQL etc.
 - 🌱 I’m currently learning Swift.
 - 💞️ I’m looking to collaborate on ...
+- 🏆 SQLD
 - 📫 How to reach me ...
 
 <!---
