@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHOSION
 - 👀 I’m interested in Python, Swift, SQL etc.
-- 🌱 I’m currently learning Swift.
+- 🌱 I’m currently learning Swift, Algorithm.
 - 💞️ I’m looking to collaborate on ...
 - 🏆 SQLD
 - 📫 chosion0107@gmail.com
