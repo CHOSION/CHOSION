@@ -1,7 +1,7 @@
 # CHOSION ⛵️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOSION&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOSION&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOSION&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Who Am I
 - 🍎 I’m currently learning Swift.
