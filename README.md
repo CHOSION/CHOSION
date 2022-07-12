@@ -15,9 +15,9 @@
 - 💊 FNINNOEDU, AI Engineering Process (21.06.17 ~ 21.11.30)
 
 ### My Address
-- https://velog.io/@chosion
-- 📫 chosion0107@gmail.com
-- 🖥️ https://g.dev/Alamofire
+- 📝 &nbsp;https://velog.io/@chosion
+- 📫 &nbsp;chosion0107@gmail.com
+- 🖥️ &nbsp;https://g.dev/Alamofire
 
 ### Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHOSION%2Fhit-counter&count_bg=%236CFFB4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
